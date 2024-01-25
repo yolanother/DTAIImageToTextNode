@@ -1,3 +1,5 @@
+Fix the problem that image2text displays only "there is a man that is standing in the dark with a cell phone"
+
 # Image to Text Node
 A ComfyAI node to convert an image to text
 
